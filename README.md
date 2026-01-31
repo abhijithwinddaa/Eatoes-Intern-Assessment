@@ -11,8 +11,8 @@ A full-stack **MERN** application for restaurant owners to manage their menu, tr
 
 | Component | URL |
 |-----------|-----|
-| Frontend | [Coming Soon - Netlify] |
-| Backend API | [Coming Soon - Render] |
+| Frontend | [https://eatoes-intern-assessment.netlify.app](https://eatoes-intern-assessment.netlify.app) |
+| Backend API | [https://eatoes-intern-assessment.onrender.com](https://eatoes-intern-assessment.onrender.com) |
 
 ---
 
