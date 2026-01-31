@@ -166,7 +166,7 @@ restaurant-dashboard/
 
 | Variable | Description | Example |
 |----------|-------------|---------|
-| `MONGODB_URI` | MongoDB connection string | `mongodb+srv://user:pass@cluster.mongodb.net/restaurant_db` |
+| `MONGODB_URI` | MongoDB connection string | `mongodb+srv://<username>:<password>@<cluster>.mongodb.net/restaurant_db` |
 | `PORT` | Server port | `5000` |
 | `NODE_ENV` | Environment | `development` |
 
